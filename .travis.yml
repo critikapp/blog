@@ -8,9 +8,11 @@ before_install:
 install:
 - hexo generate
 before_script:
-- sed -i'' "s~git@github.com:critikapp/blog.git~https://blah:x-oauth-basic@github.com/critikapp/blog.git~" _config.yml
+- git config --global user.name 'Michael de Hoog via Travis CI'
+- git config --global user.email 'michael@critik.com'
+- sed -i'' "s~git@github.com:critikapp/blog.git~https://${GH_TOKEN}:x-oauth-basic@github.com/critikapp/blog.git~" _config.yml
 script:
-- hexo deploy
+- hexo deploy --silent
 env:
   global:
     secure: j/0KiwrXT+gC5lpB7QC7JQNh4px1rJCKStpaRmvoddiEpdH6rpXtdNLaoALS1Whxzkxw5zNlgbhTkAHKGZ47hZGHYk+I+Yj/R3wuNjqytBEQCnteSv48PEruNEbCtjoUd95fjgxWzc+fyfyBAyZqrRTrIFRDQpPRBM/wo8tKgWKq5y+BzVJtjxImr8CpkPeQUqbgSx4WmxpK0L065JIk5MUJXv7a1oCZAdjf0lO/MPHeelTWkKS9lqX3eZlyR+AI4p8deUgza/oFaQVNm1kUGaQEkLP22/isfaE3PZobtCK+RwUB9CJBb8l8SYjNaIIBWOkXNI97W9UUabhs0vVs1Sa0c6TPNuwv/7KbS+6LoBw/jF93P4PhDmNWEpMJFIYR/VoNJ41O8CqcrVLTkwGdoCuJX2wzLnOhMkGKQZ12rQOAQqQAmqvezEagAlMyykEJW5mtPexKZq11gdz3lKaW750Uvp6YKMVSB8bTvhpyJmm4DWFjMY+A82sbFd9wd3Yw2YkrYxas352XJtcCjv3U2SSiAdjO1XFoJOBLuNXJ2cQoo3jEyPh7ANhYZOm+5EGu3vY8wXqyaXxbvpI60LALxdZbL5GTy5/PnVfDg5gFg/nkC7igJBq39LgA3JIeIfCD3JChRni/QK28hdYlyrsk7PHzcAG2WQYtyfPY3LkJAL8=
