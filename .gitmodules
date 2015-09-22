@@ -1,0 +1,3 @@
+[submodule "themes/blog-theme"]
+	path = themes/blog-theme
+	url = git@github.com:critikapp/blog-theme.git
