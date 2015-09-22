@@ -65,6 +65,9 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: blog-theme
 
+sitemap:
+  path: sitemap.xml
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
