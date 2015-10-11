@@ -1,0 +1,8 @@
+title: A Solution to the Challenge of Collecting Feedback - Part 1
+date: October 10 2015
+---
+The objectives are clear: customers want to be heard, and businesses want the insights that will shape the way they operate in the future. If we can connect the two, we will increase customer satisfaction, fix problems, increase responsiveness to changing market conditions and ultimately boost revenue.
+
+As we mentioned in a {% post_link why-people-dont-leave-feedback previous post %}, the typical barriers for customers are effort, lack of access, embarrassment, defeatism, desiring to be the 'nice guy', personal reputation, and the partial responsibility factor. The barriers for businesses are obstructed communication channels, lack of amplification to decision makers, the difficulty of sending quick and effective responses, and capturing and analysing feedback to get maximum utility from the data.
+
+Any solution needs to overcome the barriers on both sides of the equation. We need a tool that is attractive to use for both customers and for businesses. Customers should not have to jump through hoops or feel they are being manipulated into providing fodder for marketing research. And businesses should feel able to manage customer relationships simply and on their own terms, not because they feel forced into a corner. In our next post we'll detail what we think that solution should look like.
