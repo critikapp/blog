@@ -1,4 +1,4 @@
-title: Why People Don't Leave Feedback
+title: Why people don't leave feedback
 date: October 7 2015
 ---
 There are seven simple but significant barriers that stop consumers speaking up:

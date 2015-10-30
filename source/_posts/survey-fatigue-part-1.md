@@ -1,4 +1,4 @@
-title: Survey Fatigue - Part 1
+title: Survey fatigue - part 1
 date: October 16 2015
 ---
 Acknowledgements to Deidre Macken for her piece on [Survey Fatigue](http://www.theaustralian.com.au/arts/review/customer-feedback-surveys-its-not-about-you-its-about-them/story-fn9n8gph-1227531763850) for the Weekend Australian, September 19, 2015.

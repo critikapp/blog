@@ -1,4 +1,4 @@
-title: Are Customers Dishonest?
+title: Are customers dishonest?
 date: October 27 2015
 ---
 Just in case you’re not following the news, Amazon recently filed a claim in Seattle, [suing 1,114 people](http://news.sky.com/story/1571496/amazon-sues-1114-fake-reviewers-for-hire) for allegedly posting fake reviews on its website.

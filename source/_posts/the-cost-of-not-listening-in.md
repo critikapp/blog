@@ -1,4 +1,4 @@
-title: The Cost of not Listening In
+title: The cost of not listening in
 date: October 23 2015
 ---
 What is the cost you pay as a business owner for not loving your customer feedback? It could be more than you think.

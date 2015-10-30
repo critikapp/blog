@@ -1,4 +1,4 @@
-title: A Solution to the Challenge of Collecting Feedback - Part 1
+title: A solution to the challenge of collecting feedback - part 1
 date: October 10 2015
 ---
 The objectives are clear: customers want to be heard, and businesses want the insights that will shape the way they operate in the future. If we can connect the two, we will increase customer satisfaction, fix problems, increase responsiveness to changing market conditions and ultimately boost revenue.

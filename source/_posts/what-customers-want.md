@@ -1,4 +1,4 @@
-title: What Customers Want
+title: What customers want
 date: October 6 2015
 ---
 Let's face it – consumers are presented with constant opportunities to provide feedback. This is not a new challenge and the marketplace is saturated with options, both digital and old–school. Businesses and other organisations supplement feedback forms, surveys and focus groups with social media monitoring, website usability testing, community review boards, individually tailored mobile application and web–based market research platforms. To name a few in the digital domain – Yelp, TripAdvisor, Zomato, SurveyMonkey, UserVoice, Feedbackify, Kampyle, OpinionLab, IdeaScale, Yomstar, Satmetrix. The list goes on...

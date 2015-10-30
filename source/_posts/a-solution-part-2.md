@@ -1,4 +1,4 @@
-title: A Solution to the Challenge of Collecting Feedback - Part 2
+title: A solution to the challenge of collecting feedback - part 2
 date: October 13 2015
 ---
 In our {% post_link a-solution-part-1 last post %}, we began to discuss a solution to the challenge businesses face of collecting feedback from their customers. We think the solution looks something like the following:

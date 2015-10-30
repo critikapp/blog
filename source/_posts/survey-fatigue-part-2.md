@@ -1,4 +1,4 @@
-title: Survey Fatigue - Part 2
+title: Survey fatigue - part 2
 date: October 20 2015
 ---
 Is there a feedback sweet spot where customers and companies both can win?

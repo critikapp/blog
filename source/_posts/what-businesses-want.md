@@ -1,4 +1,4 @@
-title: What Businesses Want from a Feedback Platform
+title: What businesses want
 date: October 8 2015
 ---
 The second problem: capturing customer feedback and presenting it to businesses in a way that is easily consumable, useful for business improvement and leads to further engagement between the customer and the business.
