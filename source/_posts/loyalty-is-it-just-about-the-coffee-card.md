@@ -1,0 +1,24 @@
+title: Loyalty - is it just about the coffee card?
+date: November 30 2015
+---
+Loyalty is a word that gets thrown around a lot in the marketing and customer experience space. The idea that customers will come back repeatedly to purchase products or services. Or, at a deeper level, that customers will have an affinity with what your brand represents, whether because of the quality of your product, the appeal of your culture, or trust in your people.
+
+But what exactly is loyalty and how do businesses create it? Is it, as the title suggests, about enticing customer retention via rewards attached to frequent purchases, or is it more than this? And what lessons are there for small to medium businesses wanting to retain customers through loyalty schemes?
+
+First point - for most people loyalty is not about wanting free stuff. **Loyalty is emotional** and starts with what Simon Sinek has coined 'the question of why'. Check out his TED talk below if you haven’t seen it. To summarise, it is the idea that successful people and companies know what purpose, cause or belief inspires them to do what they do.  It is the idea that people are looking to catch hold of a vision, including when they engage with a business.
+
+{% youtube qp0HIF3SfI4 %}
+
+Apple is the great example of a brand that has mastered loyalty by knowing its why. The technical and design features of the newest iPhone are just one part of the picture. As we know from the images of dedicated fans lining up for product releases, there is an idea associated with the Apple brand that grabs people. This idea is 'challenging the status quo'. Starting with Steve Jobs and continuing today, Apple is adept at communicating and embodying this vision in everything it does. Apple's products, its employee culture, its shopfronts - they all reflect this idea of challenging normal. And this idea has engendered a level of extreme loyalty.
+
+For small enterprises – think tradespeople, cafe owners, family businesses and local grocers – admittedly your 'why' might seem a whole less grand than 'challenging the status quo'. This is ok. A vision does not necessarily have to be unique or world changing; *it simply has to take your customers on a journey beyond encouraging them to buy more*. In other words, it has to inspire them.
+
+Second point - **loyalty is trust**. In the business context, it is when a customer believes that a brand will genuinely hold itself accountable to its vision – that it will follow through on its promises. Accordingly, loyalty is created and reinforced by a business consistently demonstrating that it is achieving its why. In reality, it is rare to see this done well.
+
+Consider how many businesses out there have visions that sit on mission statements and don't actually impact the way they run day-to-day operations. Or consider businesses that market their vision where there is clearly no way they can follow through. Adopting a signboard that states "100% satisfaction every time" feels like a marketing ploy. Advertising the promise of "selling the best coffee in Sydney" seems like a good idea but in reality is unsustainable, even for the best barista. To the customer these visions are nearly impossible to prove and just a little unbelievable. So whilst they might have some marketing value, they do not necessarily create loyalty.
+
+Note that the problem here is not the vision; it is the execution of the vision. In the first scenario, creating loyalty might be ensuring your business provides a great service and then following up in person to determine whether the job met your customer's expectations. It could be providing an opportunity for the customer to provide feedback and then resolving any complaints beyond their expectations. This will demonstrate your vision far more powerfully than a slogan on the side of a van! And taking the second scenario – perhaps it is about telling your customers the story of your coffee, how it was picked, when it was roasted and why it is so good. Perhaps it is about asking your customers how their coffee was when they visit next time. More than anything, it is probably about remembering their name and building a personal relationship. If you start to engage your customers even just a little, you will probably get them thinking your coffee is the best in town, even if it isn't.
+
+So loyalty cards? We think they're not quite what they are made out to be. Loyalty cards do not communicate a vision and they do not build trust. Whilst rewarding your customers for their business is not a bad idea per se (who would turn down a free 10th coffee!), perhaps there is potential for businesses to encourage customer engagement and create powerful brand allegiance by actually turning the loyalty card concept on its head.
+
+So how to create real lasting customer loyalty? We'll give you the answer next week.
