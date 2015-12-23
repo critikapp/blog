@@ -21,4 +21,4 @@ Note that the problem here is not the vision; it is the execution of the vision.
 
 So loyalty cards? We think they're not quite what they are made out to be. Loyalty cards do not communicate a vision and they do not build trust. Whilst rewarding your customers for their business is not a bad idea per se (who would turn down a free 10th coffee!), perhaps there is potential for businesses to encourage customer engagement and create powerful brand allegiance by actually turning the loyalty card concept on its head.
 
-So how to create real lasting customer loyalty? We'll give you the answer next week.
+So how to create real lasting customer loyalty? We'll give you the answer in our next post.
