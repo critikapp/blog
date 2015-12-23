@@ -1,0 +1,10 @@
+title: Creating loyalty #1 – Ask for and listen to feedback!
+date: December 23 2015
+---
+We have said that customer loyalty is won by a bold vision, clearly articulated to customers and passionately followed through. We said that this, not a frequent shopper card, is the key to winning loyal customers to your business. Here are some practical tips to really build your customer fan club that will help your small/medium business!
+
+One of the best ways to build customer loyalty is to have an effective customer feedback mechanism. Asking for and listening to feedback is not just about resolving complaints or improving your business (although these things are great), it is about opening the communication loop from your customers to you and back again. If you encourage the conversation between you, your employees and your customers, this will allow you to articulate your vision, build trust and demonstrate how passionate you are about the story you are creating. Sound silly? Trust us, your customers and your employees want to see there is a narrative behind your brand. Giving feedback is the main way they express their loyalty to you. Listening to their feedback is the main way you can show your loyalty back.
+
+We do not just mean a feedback box on the front counter or a random email address - we mean a quick and simple-to-use system *that your customers know you are listening to*. There’s nothing worse for your brand integrity than to ask for feedback and not actually listen to what your customers are saying.
+
+So what can an effective feedback system look like? That’s where a tool like Critik comes in. Launching in 2016, Critik will make it easy for you to build loyalty by encouraging customers to speak their mind directly to you and your team and just as easy for you to respond and get the conversation going. Watch this space!
