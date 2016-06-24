@@ -1,5 +1,5 @@
 title: Single or multi-channel feedback?
-date: June 24 2016
+date: June 23 2016
 ---
 When we pitch Critik to potential clients, we get one question 99% of the time.
 
