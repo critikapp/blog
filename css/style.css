@@ -1,0 +1,146 @@
+html,
+body {
+  font-family: 'Lato', 'Helvetica', 'Arial', sans-serif false;
+  font-size: 16px;
+}
+a {
+  color: #21bdc4;
+}
+a:hover {
+  color: #1a9399 !important;
+}
+li {
+  padding-bottom: 0.3em;
+}
+.ui.top.menu,
+.ui.bottom.menu {
+  background-color: #2b3946;
+  margin: 0;
+  overflow-x: hidden;
+}
+.ui.top.menu .item,
+.ui.bottom.menu .item {
+  color: #fff;
+}
+.pusher {
+  min-height: 100%;
+  position: relative;
+}
+.ui.top.menu .item {
+  height: 64px;
+}
+@media only screen and (max-width: 991px) {
+  .ui.top.menu .item {
+    height: 56px;
+  }
+}
+.ui.top.menu .item a {
+  color: #fff;
+}
+.ui.top.menu .logo-item >a:not(.ui) {
+  line-height: 1;
+  padding-top: 2px;
+}
+@media only screen and (max-width: 767px) {
+  .ui.top.menu .logo-item {
+    margin: 0 auto;
+  }
+}
+.ui.top.menu .logo {
+  height: 37px;
+}
+@media only screen and (max-width: 991px) {
+  .ui.top.menu .logo {
+    height: 33px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .ui.top.menu .logo {
+    margin-left: -72px;
+  }
+}
+.ui.top.menu .menu>.ui.icon.input>i.circular.icon {
+  top: 0.24em;
+  right: 0.24em;
+}
+.ui.top.menu+.ui.grid {
+  margin-top: 0;
+  padding-top: 78px;
+  padding-top: calc(64px + 1rem);
+  padding-bottom: 45px;
+}
+@media only screen and (max-width: 991px) {
+  .ui.top.menu+.ui.grid {
+    padding-top: 70px;
+    padding-top: calc(56px + 1rem);
+  }
+}
+.ui.bottom.menu {
+  position: absolute;
+  width: 100%;
+  height: 45px;
+  bottom: 0;
+}
+.ui.bottom.menu .icon {
+  color: #fff;
+  font-size: 1.2em;
+  width: 30px;
+}
+.ui.grid.menu>.column:not(.row),
+.ui.grid.menu>.row>.column {
+  width: auto;
+}
+.ui.vertical.divider.connected:before,
+.ui.vertical.divider.connected:after {
+  height: 100%;
+}
+.ui.menu .item.share >.icon {
+  font-size: 1.5rem;
+  margin: 0;
+}
+@media only screen and (max-width: 767px) {
+  .ui.menu .item.share >.icon {
+    margin: -10px;
+  }
+}
+.ui.menu .item.share:hover >.icon {
+  color: #fff;
+}
+.ui.menu .item.share:hover.twitter {
+  background-color: #00aced;
+}
+.ui.menu .item.share:hover.facebook {
+  background-color: #3b5998;
+}
+.ui.menu .item.share:hover.pinterest {
+  background-color: #cb2027;
+}
+.ui.menu .item.share:hover.google {
+  background-color: #dd4b39;
+}
+.article-date {
+  padding-bottom: 5px;
+}
+#more {
+  display: block;
+  position: relative;
+  top: -64px;
+  visibility: hidden;
+}
+.video-container {
+  position: relative;
+  padding-top: 56.25%;
+  height: 0;
+  overflow: hidden;
+  margin: 0 0 0.5em;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin-top: 0;
+}

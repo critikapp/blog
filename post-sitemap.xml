@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://blog.critik.com</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/11/12/a-birthday-message-for-email/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/10/a-solution-part-1/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/13/a-solution-part-2/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/27/are-customers-dishonest/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/11/03/characteristics-of-great-customer-service/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/12/23/creating-loyalty-1/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/06/24/critik-is-live/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/04/27/customer-service-japanese-style/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/07/22/feedback-and-gambling-say-what/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/01/hello/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/30/how-not-to-manage-customer-complaints/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/10/06/how-should-you-ask-for-feedback-7-rules-for-better-insights/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/11/30/loyalty-is-it-just-about-the-coffee-card/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/06/23/single-or-multi-channel-feedback/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/16/survey-fatigue-part-1/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/20/survey-fatigue-part-2/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/23/the-cost-of-not-listening-in/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/08/what-businesses-want/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/06/what-customers-want/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2016/08/26/why-I-dont-like-giving-feedback/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://blog.critik.com/2015/10/07/why-people-dont-leave-feedback/</loc>
+        <lastmod>2016-10-06T02:39:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
